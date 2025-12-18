@@ -1,0 +1,9 @@
+langchain_openai
+langchain_core
+langchain_experimental
+numpy
+pandas
+tabulate
+langchain_community
+langchain
+matplotlib
